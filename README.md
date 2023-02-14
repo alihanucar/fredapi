@@ -9,7 +9,7 @@ Short for Federal Reserve Economic Data, FRED is an online database consisting o
 
 ## What is FRED API? 
 
-The FRED® API is a web service that allows developers to write programs and build applications that retrieve economic data from the FRED® and ALFRED® websites hosted by the Economic Research Division of the Federal Reserve Bank of St. Louis. Requests can be customized according to data source, release, category, series, and other preferences.
+The FRED® API is a web service that allows developers to write programs and build applications that retrieve economic data from the FRED® and ALFRED® websites hosted by the Economic Research Division of the Federal Reserve Bank of St. Louis. Requests can be customized according to data source, release, category, series, and other preferences. We use fredapi python library on our analysis. [See the details](https://github.com/mortada/fredapi)
 
 ## What is the purpose of this project?
 
