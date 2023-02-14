@@ -1,7 +1,7 @@
 
 # Financial Data Analysis with FRED API - USA Federal Reserve Economic Data
 
-![Logo](https://fred.stlouisfed.org/images/fred-logo-2x.png)
+![Logo](https://miro.medium.com/max/727/1*ZTdpdH5Q1HPR5OO7PZIWpA.jpeg)
 
 What is FRED? Short for Federal Reserve Economic Data, FRED is an online database consisting of hundreds of thousands of economic data time series from scores of national, international, public, and private sources. FRED, created and maintained by the Research Department at the Federal Reserve Bank of St. Louis, goes far beyond simply providing data: It combines data with a powerful mix of tools that help the user understand, interact with, display, and disseminate the data. In essence, FRED helps users tell their data stories. The purpose of this article is to guide the potential (or current) FRED user through the various aspects and tools of the database.
 
